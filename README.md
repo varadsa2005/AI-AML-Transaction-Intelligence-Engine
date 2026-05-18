@@ -95,3 +95,29 @@ AI-AML PROJECT/
 ├── notebooks/
 ├── requirements.txt
 └── README.md
+
+
+
+## Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Risk Dashboard
+
+![Risk Dashboard](screenshots/risk_dashboard.png)
+
+---
+
+### Network Analysis
+
+![Network Analysis](screenshots/network_analysis.png)
+
+---
+
+### Alerts Dashboard
+
+![Alerts Dashboard](screenshots/alerts.png)
